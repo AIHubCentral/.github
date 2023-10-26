@@ -16,11 +16,11 @@ We value contributions from developers, AI enthusiasts, and anyone interested in
 
 ## 📝 Contribution Guidelines
 
-We appreciate and value all contributions to AI HUB FRANCE. To ensure a smooth collaborative experience, please follow our contribution guidelines. You can find detailed information in the [CONTRIBUTING](https://github.com/Ai-Hub-Central/.github/blob/main/CONTRIBUTING.md) file.
+We appreciate and value all contributions to AI HUB. To ensure a smooth collaborative experience, please follow our contribution guidelines. You can find detailed information in the [CONTRIBUTING](https://github.com/Ai-Hub-Central/.github/blob/main/CONTRIBUTING.md) file.
 
 ## 📞 Contact Us
 
-Do you have questions, suggestions, or want to get in touch with the AI HUB FRANCE community? Feel free to contact us through the following channels:
+Do you have questions, suggestions, or want to get in touch with the AI HUB community? Feel free to contact us through the following channels:
 
 - Website: [www.aihub.wtf](https://aihub.wtf)
 - Email: contact@aihub.wtf
