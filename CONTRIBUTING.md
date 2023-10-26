@@ -17,7 +17,7 @@ To ensure a smooth collaboration experience, please take a moment to review the 
 
 ## Code of Conduct
 
-AI HUB follows a [Code of Conduct](CODE_OF_CONDUCT.md) that establishes standards for respectful and inclusive participation in our community. We ask all contributors to adhere to these guidelines when participating in AI HUB FRANCE projects, discussions, and events.
+AI HUB follows a [Code of Conduct](CODE_OF_CONDUCT.md) that establishes standards for respectful and inclusive participation in our community. We ask all contributors to adhere to these guidelines when participating in AI HUB projects, discussions, and events.
 
 ## Ways to Contribute
 
@@ -26,7 +26,7 @@ There are several ways to contribute to AI HUB:
 - **Website**: Help us improve the AI HUB website by fixing bugs, enhancing features, or creating new sections/pages.
 - **Projects**: Contribute to specific projects hosted in our repositories by submitting bug reports, implementing new features, or suggesting improvements.
 - **Documentation**: Assist us in improving the documentation of our projects by fixing errors, clarifying instructions, or adding missing information.
-- **Community Engagement**: Participate in discussions, forums, and online events to share your knowledge, ask questions, and help other members of the AI HUB FRANCE community.
+- **Community Engagement**: Participate in discussions, forums, and online events to share your knowledge, ask questions, and help other members of the AI HUB community.
 
 ## Submitting Contributions
 
