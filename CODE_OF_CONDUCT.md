@@ -36,7 +36,7 @@ This code of conduct applies in all community spaces and also applies when an in
 
 ## Enforcement
 
-Cases of abusive, harassing, or otherwise unacceptable behavior may be reported to community leaders responsible for enforcement at contact@aihubfrance.fr. All complaints will be reviewed and investigated promptly and fairly.
+Cases of abusive, harassing, or otherwise unacceptable behavior may be reported to community leaders responsible for enforcement at contact@aihub.gg. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are required to respect the privacy and security of the reporter of any incident.
 
