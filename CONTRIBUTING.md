@@ -67,8 +67,8 @@ When creating an issue, please provide:
 
 We value open and transparent communication. You can contact us through the following channels:
 
-- Website: [www.aihub.wtf](https://aihub.wtf)
-- Email: contact@aihub.wtf
+- Website: [www.aihub.wtf](https://aihub.gg)
+- Email: contact@aihub.gg
 - Twitter: [@AiHubCentral](https://twitter.com/AiHubCentral)
 - Discord: [AI HUB](https://discord.gg/aihub)
 
