@@ -22,8 +22,8 @@ We appreciate and value all contributions to AI HUB. To ensure a smooth collabor
 
 Do you have questions, suggestions, or want to get in touch with the AI HUB community? Feel free to contact us through the following channels:
 
-- Website: [www.aihub.wtf](https://aihub.wtf)
-- Email: contact@aihub.wtf
+- Website: [aihub.gg](https://aihub.gg)
+- Email: contact@aihub.gg
 - Twitter: [@AiHubCentral](https://twitter.com/AiHubCentral)
 - Discord: [AI HUB](https://discord.gg/aihub)
 
